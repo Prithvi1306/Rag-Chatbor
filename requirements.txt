@@ -16,4 +16,5 @@ unstructured-client==0.18.0
 unstructured-inference==0.7.23
 unstructured.pytesseract==0.3.12
 python-dotenv==1.0.1
-chroma== 0.2.0
+chroma==0.2.0
+sqlite3==0.35.0
